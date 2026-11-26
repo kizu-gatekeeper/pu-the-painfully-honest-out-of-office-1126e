@@ -2,7 +2,7 @@
 
 import os
 
-LINE = "I am away from my desk pretending my inbox does not exist; your email has joined the queue of things I will bravely ignore until Monday."
+LINE = "I am away from my desk pretending my inbox does not exist. Your email has joined the queue of things I will bravely ignore until Monday, possibly forever."
 
 
 def main():
